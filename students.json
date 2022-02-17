@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Eduard",
+    "age": 23,
+    "likesPokemon": true,
+    "pizzaToppings": ["Piña", "Vegetales"]
+  },
+  {
+    "name": "Juan",
+    "age": 22,
+    "likesPokemon": true,
+    "pizzaToppings": ["Vegetales", "Peperoni"]
+  },
+  {
+    "name": "Eva",
+    "age": 21,
+    "likesPokemon": true,
+    "pizzaToppings": ["Vegetales"]
+  },
+  {
+    "name": "Blasco",
+    "age": 70,
+    "likesPokemon": false,
+    "pizzaToppings": ["Piña", "Peperoni"]
+  },
+  {
+    "name": "Christian",
+    "age": 30,
+    "likesPokemon": false
+  }
+]
